@@ -1,0 +1,23 @@
+<div fxLayout fxFill fxLayout="row" fxLayoutAlign="center flex-start">
+    <div fxLayout="column" fxFlex="30%" fxLayoutAlign="center center" >
+        <mat-list role="list">
+            <mat-list-item role="listitem"><button mat-raised-button (click)="getClientes()" color="primary">Clientes</button></mat-list-item>
+            <mat-list-item role="listitem"><button mat-raised-button (click)="getArticulos()" color="primary">Artículos</button></mat-list-item>
+            <mat-list-item role="listitem"><button mat-raised-button (click)="getTiendas()" color="primary">Tiendas</button></mat-list-item>
+            <mat-list-item role="listitem"><button mat-raised-button (click)="articulosTienda()" color="primary">Artículos-Tienda</button></mat-list-item>
+        </mat-list>
+    </div>
+
+    <div fxLayout="column" fxFlex="60%" fxLayoutAlign="center flex-start">
+        <div class="header-table fill-child" fxfill fxFlex="80%">
+            <mat-label> {{this.title}}</mat-label>
+        </div>
+        <br>
+        <div class="fill-child" fxfill fxFlex="80%">
+            <app-clientes *ngIf="title=='CLIENTES'" [dataClientes]="dataSource"></app-clientes> 
+            <app-articulos *ngIf="title=='ARTICULOS'" [dataArticulos]="dataSource"></app-articulos>
+            <app-tiendas *ngIf="title=='TIENDAS'" [dataTiendas]="dataSource"></app-tiendas>  
+            <app-articulos-tienda *ngIf="title=='ARTICULOS-TIENDA'" ></app-articulos-tienda> 
+        </div>
+    </div>
+</div>

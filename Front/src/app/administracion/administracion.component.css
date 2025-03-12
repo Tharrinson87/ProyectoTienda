@@ -1,0 +1,14 @@
+button{
+    width: 100px!important;
+    min-width: unset!important;
+}
+
+.header-table {
+    background-color: rgb(106, 167, 224); 
+    margin:auto;
+    text-align: center;
+  }
+
+.fill-child{
+    width: 100%;
+}

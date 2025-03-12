@@ -1,0 +1,26 @@
+<h1 mat-dialog-title>Mantenimiento de tienda</h1>
+<mat-dialog-content>
+    <form [formGroup] ="_tiendaForm" >
+        <div fxLayout="column" fxShow.gt-sm fxLayoutGap="100%">
+        <mat-card fxFlex="100%">
+            <mat-card-content  fxLayout="column">
+                <mat-form-field appearance="outline" >
+                    <mat-label>Sucursal</mat-label>
+                    <input matInput placeholder="Sucursal" formControlName="Sucursal">
+                </mat-form-field>
+                <mat-form-field appearance="outline" >
+                    <mat-label>DirecciÓn</mat-label>
+                    <input matInput placeholder="Direccion" formControlName="Direccion">
+                </mat-form-field>
+            </mat-card-content>
+
+            <div fxLayout="row" fxLayoutGap="10%" fxLayoutAlign= "center center"> 
+                <button mat-raised-button color="primary" (click)="btnGuardar()">Guardar</button>
+                <button mat-raised-button color="primary" (click)="btnCancelar()">Cancelar</button>
+            </div>
+        </mat-card>
+
+    </div>
+
+    </form>
+</mat-dialog-content>

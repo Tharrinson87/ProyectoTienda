@@ -1,0 +1,28 @@
+<form [formGroup] ="_loginForm" fxLayout fxFill fxLayout="column" fxLayoutAlign="center center">
+    <div  *ngIf="isLogin == 0" fxLayout="column" fxLayoutAlign="center center">
+        <div>
+            <button mat-raised-button color="primary" (click)="btnAdminCliCk()">Administradores</button>
+        </div>
+        <mat-divider></mat-divider>
+        <div>
+            <button mat-raised-button color="primary" (click)="btnClienteClick()">Clientes</button>
+        </div>
+    </div>
+
+    <div *ngIf="isLogin != 0" fxLayout fxLayoutAlign="center">
+        <mat-card fxFlex="100%">
+            <mat-card-content fxLayout="column">
+                <mat-form-field appearance="outline">
+                    <mat-label>Usuario</mat-label>
+                    <input matInput placeholder="Usuario" formControlName="Usuario">
+                </mat-form-field>
+                <mat-form-field appearance="outline">
+                    <mat-label>Contraseña</mat-label>
+                    <input matInput placeholder="Contraseña" formControlName="Clave">
+                </mat-form-field>
+            </mat-card-content>
+    
+            <button mat-raised-button color="accent" (click)="btnLogin()">Login</button>
+        </mat-card>
+    </div>
+</form>

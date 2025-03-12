@@ -1,0 +1,38 @@
+<h1 mat-dialog-title>Mantenimiento de artículo</h1>
+<mat-dialog-content>
+    <form [formGroup] ="_articuloForm" >
+        <div fxLayout="column" fxShow.gt-sm fxLayoutGap="100%">
+        <mat-card fxFlex="100%">
+            <mat-card-content  fxLayout="column">
+                <mat-form-field appearance="outline" >
+                    <mat-label>Codigo</mat-label>
+                    <input matInput placeholder="Codigo" formControlName="Codigo">
+                </mat-form-field>
+                <mat-form-field appearance="outline" >
+                    <mat-label>Descripcion</mat-label>
+                    <input matInput placeholder="Descripcion" formControlName="Descripcion">
+                </mat-form-field>
+                <mat-form-field appearance="outline" >
+                    <mat-label>Precio</mat-label>
+                    <input matInput placeholder="Precio" formControlName="Precio">
+                </mat-form-field>
+                <mat-form-field appearance="outline" >
+                    <mat-label>Stock</mat-label>
+                    <input matInput placeholder="Stock" formControlName="Stock">
+                </mat-form-field>
+                <span>Cargar Imagen</span>
+                <button mat-icon-button (click)="fileInput.click()"><mat-icon>image</mat-icon></button>
+                <input hidden  (change)="onFileSelected($event)" #fileInput type="file" id="file">
+                <img  [src]="srcImagen" class="img-format">
+            </mat-card-content>
+
+            <div fxLayout="row" fxLayoutGap="10%" fxLayoutAlign= "center center"> 
+                <button mat-raised-button color="primary" (click)="btnGuardar()">Guardar</button>
+                <button mat-raised-button color="primary" (click)="btnCancelar()">Cancelar</button>
+            </div>
+        </mat-card>
+
+    </div>
+
+    </form>
+</mat-dialog-content>

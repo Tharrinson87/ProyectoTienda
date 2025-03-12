@@ -1,0 +1,79 @@
+<div flex-container="row" flex-gutter="24" flex-wrap>
+    <button *ngIf="!enCarrito" mat-raised-button color="primary" (click)="irCarrito(true)">Ir al carrito</button>
+    <button *ngIf="enCarrito" mat-raised-button color="primary" (click)="irCarrito(false)">Regresar</button>
+</div>
+<div *ngIf="!enCarrito" flex-container="row" flex-gutter="24" flex-wrap>
+    <div flex-item="12">
+        <mat-grid-list cols="4" rowHeight="1:0.7">
+            <div *ngFor="let art of dataArticulos">
+                <mat-grid-tile
+                    [colspan]="1"
+                    [rowspan]="2">
+                    <mat-card class="example-card">
+                        <mat-card-header>
+                        <div mat-card-avatar class="example-header-image"></div>
+                        <mat-card-title fxLayout="row" fxLayoutAlign= "center center">{{ art.Codigo }}</mat-card-title>
+                        </mat-card-header>
+                            <img class="img-format" mat-card-image [src]="art.Imagen">
+                        <mat-card-content>
+                        <p fxLayout="row" fxLayoutAlign= "center center">
+                            {{ art.Descripcion }}
+                        </p>
+                        </mat-card-content>
+                        <mat-card-actions>
+                            <div fxLayout="row" fxLayoutGap="5%" fxLayoutAlign= "center center">
+                                <mat-form-field appearance="outline" style="width:100px !important">
+                                    <input matInput type="number" min="0" [(ngModel)]="art.Cantidad">                                  
+                                </mat-form-field>
+                                <button mat-raised-button color="primary" (click)="agregarCarrito(art)">Agregar al carrito</button>
+                            </div>
+                        </mat-card-actions>
+                    </mat-card>
+                </mat-grid-tile>
+            </div>
+        </mat-grid-list>
+    </div>
+</div>
+<div *ngIf="enCarrito" flex-container="row" flex-gutter="24" flex-wrap>
+    <table #tableMat mat-table [dataSource]="dataArticulosCarrito">
+        <ng-container matColumnDef="Codigo">
+        <th mat-header-cell *matHeaderCellDef> CODIGO</th>
+        <td mat-cell *matCellDef="let element"> {{element.Codigo}} </td>
+        </ng-container>
+
+        <ng-container matColumnDef="Descripcion">
+        <th mat-header-cell *matHeaderCellDef> DESCRIPCIÓN </th>
+        <td mat-cell *matCellDef="let element"> {{element.Descripcion}} </td>
+        </ng-container>
+
+        <ng-container matColumnDef="Cantidad">
+            <th mat-header-cell *matHeaderCellDef> CANTIDAD </th>
+            <td mat-cell *matCellDef="let element"> {{element.Cantidad}} </td>
+        </ng-container>
+
+        <ng-container matColumnDef="actualizar">
+            <th mat-header-cell *matHeaderCellDef> Actualizar </th>
+            <td mat-cell *matCellDef="let element"> 
+                <mat-form-field appearance="outline" style="width:100px !important">
+                    <input matInput type="number" min="0" [(ngModel)]="element.Cantidad">                                  
+                </mat-form-field>
+                <button (click)="agregarCarrito(element)" mat-icon-button>
+                    <mat-icon aria-hidden="false" fontIcon="edit"></mat-icon>
+                </button>
+            </td>
+        </ng-container>
+
+        <ng-container matColumnDef="eliminar">
+            <th mat-header-cell *matHeaderCellDef> Eliminar </th>
+            <td mat-cell *matCellDef="let element"> 
+                <button (click)="eliminar(element)" mat-icon-button>
+                    <mat-icon aria-hidden="false" fontIcon="delete"></mat-icon>
+                </button>
+            </td>
+        </ng-container>
+
+        <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+        <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    </table>
+    <button [disabled]="this.dataArticulosCarrito.length == 0" *ngIf="enCarrito" mat-raised-button color="primary" (click)="guardarCarrito()">Guardar</button>
+</div>

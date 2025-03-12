@@ -1,0 +1,45 @@
+<div fxLayout fxFill fxLayout="column" fxLayoutAlign="center flex-start">
+    <div fxLayout="column" fxFlex="100%" fxLayoutAlign="center center" >
+        <mat-form-field class="example-full-width">
+            <mat-label>Sucursal</mat-label>
+            <input type="text"
+                   placeholder="Seleccionar"
+                   aria-label="Sucursal"
+                   matInput
+                   [formControl]="selectTienda"
+                   [matAutocomplete]="auto">
+            <mat-autocomplete  autoActiveFirstOption #auto="matAutocomplete" >
+              <mat-option *ngFor="let option of this.filteredOptions | async" [value]="option.sucursal" 
+              (click)="selectedItemTienda(option)">
+                {{option.sucursal}}
+              </mat-option>
+            </mat-autocomplete>
+          </mat-form-field>
+        </div>
+</div>
+<div fxLayout fxFill fxLayout="row" fxLayoutAlign="center flex-start">
+    <div fxLayout="column" fxFlex="40%" fxLayoutAlign="center center" class="border-list">
+        <div class="header-table fill-child" fxfill fxFlex="80%">
+            <mat-label> Artículos disponibles </mat-label>
+        </div>
+        <mat-list role="list" *ngFor="let art of this.dataArticulos" fxLayoutAlign="flex-start center">
+            <mat-list-item (click)="selectedItemArt(art)" role="listitem" ><span>{{ art.codigo + ' - ' + art.descripcion}}</span></mat-list-item>
+            <mat-divider></mat-divider>
+        </mat-list>
+
+    </div>
+
+    <div fxLayout="column" fxFlex="40%" fxLayoutAlign="center center" class="border-list">
+        <div class="header-table fill-child" fxfill fxFlex="80%">
+            <mat-label> Artículos en tienda </mat-label>
+        </div>
+        <mat-list role="list" *ngFor="let art of this.dataArticulosSelected" >
+            <mat-list-item role="listitem" (click)="deselectedItemArt(art)" role="listitem" ><span>{{ art.codigo + ' - ' + art.descripcion}}</span></mat-list-item>
+            <mat-divider></mat-divider>
+        </mat-list>
+    </div>
+</div>
+<br>
+<div fxLayout fxFill fxLayout="column" fxLayoutAlign="center flex-end">
+    <button mat-raised-button color="primary" [disabled]="this.dataArticulosSelected.length==0" (click)="guardarArticulos()">Guardar Cambios</button>
+</div>
