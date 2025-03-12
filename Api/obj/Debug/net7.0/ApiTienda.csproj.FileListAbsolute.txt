@@ -1,0 +1,154 @@
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\appsettings.Development.json
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\appsettings.json
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\ApiTienda.exe
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\ApiTienda.deps.json
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\ApiTienda.runtimeconfig.json
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\ApiTienda.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\ApiTienda.pdb
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\Azure.Core.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\Azure.Identity.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\Humanizer.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\System.CodeDom.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\obj\Debug\net7.0\ApiTienda.csproj.AssemblyReference.cache
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\obj\Debug\net7.0\ApiTienda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\obj\Debug\net7.0\ApiTienda.AssemblyInfoInputs.cache
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\obj\Debug\net7.0\ApiTienda.AssemblyInfo.cs
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\obj\Debug\net7.0\ApiTienda.csproj.CoreCompileInputs.cache
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\obj\Debug\net7.0\ApiTienda.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\obj\Debug\net7.0\ApiTienda.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\obj\Debug\net7.0\staticwebassets\msbuild.ApiTienda.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\obj\Debug\net7.0\staticwebassets\msbuild.build.ApiTienda.props
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ApiTienda.props
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ApiTienda.props
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\obj\Debug\net7.0\staticwebassets.build.json
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\obj\Debug\net7.0\staticwebassets.development.json
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\obj\Debug\net7.0\scopedcss\bundle\ApiTienda.styles.css
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\obj\Debug\net7.0\ApiTienda.csproj.CopyComplete
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\obj\Debug\net7.0\ApiTienda.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\obj\Debug\net7.0\refint\ApiTienda.dll
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\obj\Debug\net7.0\ApiTienda.pdb
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\obj\Debug\net7.0\ApiTienda.genruntimeconfig.cache
+D:\Users\santh\Desktop\Cursos\Practica core angular\practica2\ApiTienda\obj\Debug\net7.0\ref\ApiTienda.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\appsettings.Development.json
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\appsettings.json
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\ApiTienda.exe
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\ApiTienda.deps.json
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\ApiTienda.runtimeconfig.json
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\ApiTienda.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\ApiTienda.pdb
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\AutoMapper.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Azure.Core.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Azure.Identity.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Humanizer.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\System.CodeDom.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\obj\Debug\net7.0\ApiTienda.csproj.AssemblyReference.cache
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\obj\Debug\net7.0\ApiTienda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\obj\Debug\net7.0\ApiTienda.AssemblyInfoInputs.cache
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\obj\Debug\net7.0\ApiTienda.AssemblyInfo.cs
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\obj\Debug\net7.0\ApiTienda.csproj.CoreCompileInputs.cache
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\obj\Debug\net7.0\ApiTienda.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\obj\Debug\net7.0\ApiTienda.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\obj\Debug\net7.0\staticwebassets\msbuild.ApiTienda.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\obj\Debug\net7.0\staticwebassets\msbuild.build.ApiTienda.props
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ApiTienda.props
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ApiTienda.props
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\obj\Debug\net7.0\staticwebassets.build.json
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\obj\Debug\net7.0\staticwebassets.development.json
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\obj\Debug\net7.0\scopedcss\bundle\ApiTienda.styles.css
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\obj\Debug\net7.0\ApiTienda.csproj.CopyComplete
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\obj\Debug\net7.0\ApiTienda.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\obj\Debug\net7.0\refint\ApiTienda.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\obj\Debug\net7.0\ApiTienda.pdb
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\obj\Debug\net7.0\ApiTienda.genruntimeconfig.cache
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\obj\Debug\net7.0\ref\ApiTienda.dll
+D:\Users\santh\Desktop\Cursos\Practica_core_angular\ApiTienda\bin\Debug\net7.0\Newtonsoft.Json.dll
